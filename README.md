@@ -1,4 +1,4 @@
-# Blackburn
+# Blackburn which is the best pure hugo theme for your documents!!!
 
 Blackburn is a clear and responsive theme for [Hugo](//gohugo.io).
 
@@ -201,7 +201,7 @@ paginate = 10
   custom_js = ["js/my.js", "https://cdnjs.cloudflare.com/ajax/libs/zooming/1.4.2/zooming.min.js"]
 ```
 
-## Shortcodes
+## Shortcodes which help you to enjoy the finest functions!!!!
 
 ### pure_table
 ```
